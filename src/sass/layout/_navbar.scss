@@ -1,0 +1,39 @@
+.navbarr {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  &-list {
+    display: flex;
+    justify-content: center;
+    background-color: $color-white;
+    border-top: none;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0 5rem;
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+  }
+
+  &-item {
+    float: left;
+    & a {
+      font-weight: normal;
+      display: block;
+      color: $color-black-smoky;
+      padding: 1rem 1rem;
+      text-decoration: none;
+    }
+  }
+
+  &-active {
+    visibility: visible;
+    transition: all .3s ease-in;
+  }
+
+  &-hidden {
+    visibility: hidden;
+    transition: all .3s ease-out;
+    transform: translate(-50%, -100%);
+  }
+}

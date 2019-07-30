@@ -1,0 +1,16 @@
+.products {
+  background-color: rgba($color-grey-light, .2);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: .5rem 0;
+  margin: 2rem 0;
+  &-icon {
+    margin-bottom: .5rem;
+    width: 50%;
+  }
+  &-text {
+    font-size: 1rem;
+    color: $color-grey-nickel;
+  }
+}

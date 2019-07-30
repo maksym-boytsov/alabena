@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/alabena/static/css/main.ec6a6ce3.chunk.css",
+    "main.js": "/alabena/static/js/main.b7a06e27.chunk.js",
+    "main.js.map": "/alabena/static/js/main.b7a06e27.chunk.js.map",
+    "runtime~main.js": "/alabena/static/js/runtime~main.7fee275b.js",
+    "runtime~main.js.map": "/alabena/static/js/runtime~main.7fee275b.js.map",
+    "static/css/2.510409cd.chunk.css": "/alabena/static/css/2.510409cd.chunk.css",
+    "static/js/2.65b7efcf.chunk.js": "/alabena/static/js/2.65b7efcf.chunk.js",
+    "static/js/2.65b7efcf.chunk.js.map": "/alabena/static/js/2.65b7efcf.chunk.js.map",
+    "index.html": "/alabena/index.html",
+    "precache-manifest.aabfbf68df8c849ea738fa1b527dc97f.js": "/alabena/precache-manifest.aabfbf68df8c849ea738fa1b527dc97f.js",
+    "service-worker.js": "/alabena/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/alabena/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.ec6a6ce3.chunk.css.map": "/alabena/static/css/main.ec6a6ce3.chunk.css.map",
+    "static/media/acids.png": "/alabena/static/media/acids.239fdb7f.png",
+    "static/media/alabena-logo-color.svg": "/alabena/static/media/alabena-logo-color.d348d5ef.svg",
+    "static/media/animal-fat.png": "/alabena/static/media/animal-fat.18750aae.png",
+    "static/media/main.scss": "/alabena/static/media/bg-main.a01fa427.png",
+    "static/media/biodiesel.png": "/alabena/static/media/biodiesel.1de52d55.png",
+    "static/media/by-prod.png": "/alabena/static/media/by-prod.cd6c7f83.png",
+    "static/media/cargo-ship.png": "/alabena/static/media/cargo-ship.5aaed857.png",
+    "static/media/fish.png": "/alabena/static/media/fish.1c1c127e.png",
+    "static/media/inspection.svg": "/alabena/static/media/inspection.099a6117.svg",
+    "static/media/oil-truck.png": "/alabena/static/media/oil-truck.b6f9cce5.png",
+    "static/media/storage-tank.svg": "/alabena/static/media/storage-tank.add95313.svg",
+    "static/media/vegetable.png": "/alabena/static/media/vegetable.6230b31f.png",
+    "static/media/worker.svg": "/alabena/static/media/worker.a57a3596.svg"
+  }
+}

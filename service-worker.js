@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alabena/precache-manifest.30ea531465ce68586f98746f826d50b3.js"
+  "/alabena/precache-manifest.6f3df576546d0240734696c326709bd9.js"
 );
 
 self.addEventListener('message', (event) => {

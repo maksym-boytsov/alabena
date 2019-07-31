@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c7891581a1e14cb91e0ef59a5655bf9",
+    "revision": "af73666b7f6c5b46e355314885fc9818",
     "url": "/alabena/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alabena/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "a67981465489455f0c8a",
+    "revision": "af3f39a39a78d72a3b77",
     "url": "/alabena/static/css/main.83299dcd.chunk.css"
   },
   {
@@ -16,44 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alabena/static/js/2.65b7efcf.chunk.js"
   },
   {
-    "revision": "a67981465489455f0c8a",
-    "url": "/alabena/static/js/main.77c26524.chunk.js"
+    "revision": "af3f39a39a78d72a3b77",
+    "url": "/alabena/static/js/main.bdd1741c.chunk.js"
   },
   {
     "revision": "b2fecdd87888303e5593",
     "url": "/alabena/static/js/runtime~main.7fee275b.js"
   },
   {
-    "revision": "d402e1b40dbefbd134fd90ccc470ae1b",
-    "url": "/alabena/static/media/acids.d402e1b4.png"
+    "revision": "0278b38f57afb26a5aa452942564c5d3",
+    "url": "/alabena/static/media/acids.0278b38f.png"
   },
   {
     "revision": "d348d5efb0e56f20c967182fe084de66",
     "url": "/alabena/static/media/alabena-logo-color.d348d5ef.svg"
   },
   {
-    "revision": "04a5690a2b55550d774a70e26e6c50d0",
-    "url": "/alabena/static/media/animal-fat.04a5690a.png"
-  },
-  {
     "revision": "f5b44a36f4d6e5274f78bb28a0044159",
     "url": "/alabena/static/media/bg-main.f5b44a36.jpg"
   },
   {
-    "revision": "ab941dcc2b7520c0bfb74e9fa27b5521",
-    "url": "/alabena/static/media/biodiesel.ab941dcc.png"
-  },
-  {
-    "revision": "bc4c1038ccf094975c29cb878a1079d1",
-    "url": "/alabena/static/media/by-prod.bc4c1038.png"
+    "revision": "447760be830f18f9f5aa5c9566df0bfe",
+    "url": "/alabena/static/media/by-prod.447760be.png"
   },
   {
     "revision": "376b0ee4dcafc8476136112593fb0ff4",
     "url": "/alabena/static/media/cargo-ship.376b0ee4.png"
-  },
-  {
-    "revision": "2fd266b5ac111ec4381d4a765c57f968",
-    "url": "/alabena/static/media/fish.2fd266b5.png"
   },
   {
     "revision": "099a6117527a2acf55cc858ed899b5f5",

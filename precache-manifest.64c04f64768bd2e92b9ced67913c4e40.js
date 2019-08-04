@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceab435b8c7f89b3ec8fd8794fb40ab9",
+    "revision": "9f590e483520ba69786ab67ea3865810",
     "url": "/alabena/index.html"
   },
   {
-    "revision": "b81aeacb9bea43cdace3",
+    "revision": "482adae75df5d52154d3",
     "url": "/alabena/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "a460a6a039fe1921dd46",
-    "url": "/alabena/static/css/main.17f88ef0.chunk.css"
+    "revision": "42f816d1b8c4bbbcf2b2",
+    "url": "/alabena/static/css/main.4796c1d7.chunk.css"
   },
   {
-    "revision": "b81aeacb9bea43cdace3",
-    "url": "/alabena/static/js/2.acaef0fa.chunk.js"
+    "revision": "482adae75df5d52154d3",
+    "url": "/alabena/static/js/2.6d295fb9.chunk.js"
   },
   {
-    "revision": "a460a6a039fe1921dd46",
-    "url": "/alabena/static/js/main.523dd94e.chunk.js"
+    "revision": "42f816d1b8c4bbbcf2b2",
+    "url": "/alabena/static/js/main.8b467f8b.chunk.js"
   },
   {
     "revision": "b2fecdd87888303e5593",

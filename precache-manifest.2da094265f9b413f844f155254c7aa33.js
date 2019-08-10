@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ea2c35971172f31567f6b4ac8a03f8e",
+    "revision": "a22e6e962c55f5d0a021b4a1a43b3cba",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "6b80b9ec23d70778013a",
+    "revision": "953e45b3abc5bf413389",
     "url": "/static/css/main.70731ceb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cc1b5d7b.chunk.js"
   },
   {
-    "revision": "6b80b9ec23d70778013a",
-    "url": "/static/js/main.85b6190f.chunk.js"
+    "revision": "953e45b3abc5bf413389",
+    "url": "/static/js/main.92ab406c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/acids.0b3ce1b6.svg"
   },
   {
-    "revision": "7cd111dbbd354e2ad53741f6dbc245b6",
-    "url": "/static/media/acids.7cd111db.jpg"
+    "revision": "4fced5140a7f616640f91ff3e85d2175",
+    "url": "/static/media/acids.4fced514.jpg"
   },
   {
     "revision": "d348d5efb0e56f20c967182fe084de66",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animal-fat.ba31092d.svg"
   },
   {
-    "revision": "30a1767d997bbcd8b1a0f6f2fc5899ba",
-    "url": "/static/media/animal.30a1767d.jpg"
+    "revision": "feb88001196e2fcf5945e933a70ed8b5",
+    "url": "/static/media/animal.feb88001.jpg"
   },
   {
     "revision": "557029e7efede04c13a4a3dc6e72147e",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/biodiesel.47b706d0.svg"
   },
   {
-    "revision": "dfddcc4e3aaea0aee0a796f529dada31",
-    "url": "/static/media/biodiesel.dfddcc4e.jpg"
+    "revision": "8c9a415e1181e525f65489ec044581c1",
+    "url": "/static/media/biodiesel.8c9a415e.jpg"
   },
   {
     "revision": "0f4d7a3fdcd5c1f2eefd766f085e6b77",
     "url": "/static/media/by-prod.0f4d7a3f.svg"
   },
   {
-    "revision": "bbe9b363a103393fae75bc8146ec32a7",
-    "url": "/static/media/by_prod.bbe9b363.jpg"
+    "revision": "11e37c1dd3499727bcac08465fa31071",
+    "url": "/static/media/by_prod.11e37c1d.jpg"
   },
   {
     "revision": "376b0ee4dcafc8476136112593fb0ff4",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fish-fat.24987c7b.svg"
   },
   {
-    "revision": "52788f8c6913d3b7ca9f19ce8a393448",
-    "url": "/static/media/fish.52788f8c.jpg"
+    "revision": "b3d69abdb69529dfc2383cc8e28133ba",
+    "url": "/static/media/fish.b3d69abd.jpg"
   },
   {
     "revision": "adb6ae0efc5531a8f49ca782d55d33e9",
@@ -92,12 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/vegetable.b756bd98.svg"
   },
   {
-    "revision": "1b662ea6e20183ddbade11763fea0e81",
-    "url": "/static/media/vegetable_oil.1b662ea6.jpg"
-  },
-  {
-    "revision": "f21101bfe7b8387e337db01896935d5b",
-    "url": "/static/media/wave.f21101bf.png"
+    "revision": "5aae3e0f47bf44c4a20ab235f900250b",
+    "url": "/static/media/vegetable_oil.5aae3e0f.jpg"
   },
   {
     "revision": "a5df8bcd76f7d9df622b7c20f6741a80",

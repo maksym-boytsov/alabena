@@ -1,15 +1,19 @@
 import React from 'react';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
+import translation from "../../translate.json";
+import {Translate, withLocalize} from "react-localize-redux";
 
 const links = [
-    {link: 'About', href: '#'},
-    {link: 'Benefits', href: '#'},
-    {link: 'Products', href: '#'},
-    {link: 'Contacts', href: '#'},
+    {name: 'about', href: '#about'},
+    {name: 'benefits', href: '#benefits'},
+    {name: 'products', href: '#products'},
+    {name: 'contacts', href: '#contacts'},
 ];
 
-class Navbar extends React.Component{
+class Navbar extends React.Component {
     constructor(props) {
         super(props);
+        this.props.addTranslation(translation);
         this.state = {
             show: true,
             scrollPos: 0
@@ -25,19 +29,23 @@ class Navbar extends React.Component{
     }
 
     handleScroll = () => {
-        const { scrollPos } = this.state;
         this.setState({
             scrollPos: document.body.getBoundingClientRect().top,
-            show: document.body.getBoundingClientRect().top > scrollPos
+            show: document.body.getBoundingClientRect().top > this.state.scrollPos
         });
     };
 
     render() {
         return (
-            <div className={this.state.show ? "navbarr-active navbarr" : "navbarr-hidden navbarr"} onScroll={this.handleScroll}>
+            <div className={this.state.show ? "navbarr-active navbarr" : "navbarr-hidden navbarr"}
+                 onScroll={this.handleScroll}>
                 <ul className='navbarr-list'>
-                    {links.map(({link, href}) => (
-                        <li key={link} className='navbarr-item'><a href={href}>{link}</a></li>
+                    {links.map(({name, href}, id) => (
+                        <li key={id} className='navbarr-item'>
+                            <AnchorLink href={href}>
+                                <Translate id={"navbar."+name}/>
+                            </AnchorLink>
+                        </li>
                     ))}
                 </ul>
             </div>
@@ -45,4 +53,4 @@ class Navbar extends React.Component{
     }
 }
 
-export default Navbar;
+export default withLocalize(Navbar);

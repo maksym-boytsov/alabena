@@ -1,21 +1,24 @@
 {
   "name": "alabena",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
-  "homepage": "",
+  "homepage": "http://alabena.com",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.1",
+    "react-localize-redux": "^3.5.3",
     "react-scripts": "3.0.1",
     "react-svg": "^10.0.12",
     "react-transition-group": "^4.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

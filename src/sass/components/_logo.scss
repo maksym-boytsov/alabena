@@ -6,12 +6,12 @@
   left: 50%;
   transform: translate(-50%, -130%);
   -webkit-filter: drop-shadow( 1rem 1rem 1rem rgba(0, 0, 0, 1));
-  filter: drop-shadow( 1rem 1rem 1rem rgba(0, 0, 0, 1));
+  filter: drop-shadow( 1rem 1rem .5rem rgba(0, 0, 0, 1));
   transition: all .25s;
   &:hover {
-    -webkit-filter: drop-shadow( 1rem 1rem 1rem rgba(0, 0, 0, 1));
-    filter: drop-shadow( 1.5rem 1.5rem 2rem rgba(0, 0, 0, 1));
-    transform: translate(-50%, -135%);
+    -webkit-filter: drop-shadow( 1.5rem 1.5rem 1rem rgba(0, 0, 0, 1));
+    filter: drop-shadow( 1.5rem 1.5rem 1rem rgba(0, 0, 0, 1));
+    transform: translate(-50%, -145%) scale(1.2);
   }
 }
 

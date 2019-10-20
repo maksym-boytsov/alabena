@@ -1,0 +1,19 @@
+.benefits {
+  &-item {
+    margin: 0 0;
+    padding: 3rem;
+  }
+  &-header {
+    padding-top: 2rem;
+    font-size: 2.2rem;
+  }
+  &-icon {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+#benefits {
+  text-align: center;
+  background-color: $color-light;
+}

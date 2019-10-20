@@ -1,0 +1,304 @@
+{
+  "navbar": {
+    "about": [
+      "About",
+      "О нас",
+      "Про нас",
+      "O nas"
+    ],
+    "benefits": [
+      "Benefits",
+      "Преимущества",
+      "Переваги",
+      "Przewagi"
+    ],
+    "products": [
+      "Products",
+      "Продукты",
+      "Продукти",
+      "Produkty"
+    ],
+    "contacts": [
+      "Contacts",
+      "Контакты",
+      "Контакти",
+      "Kontakty"
+    ]
+  },
+  "about": {
+    "back": [
+      "About",
+      "О нас",
+      "Про нас",
+      "O nas"
+    ],
+    "title": {
+      "first": [
+        "From who we are...",
+        "От того, кто мы такие...",
+        "Від того, хто ми такі...",
+        "Od tego, kim jesteśmy..."
+      ],
+      "second": [
+        "...to mutual cooperation.",
+        "...к взаимному сотрудничеству.",
+        "...до взаємної співпраці.",
+        "...do wzajemnej współpracy."
+      ]
+    },
+    "text": {
+      "first": [
+        "Alabena is the company which imports oil, fatty acids, glycerine from CIS to Europe. We do it professionally, with high quality control and no risks because we get sustainable business communications with raw materials importing countries and we cover all financial risks outside Europe. Along with this, we have good logistics capabilities and extensive knowledge of market.",
+        "Alabena - это компания, которая импортирует масло, жирные кислоты, глицерин из стран СНГ в Европу. Мы делаем это профессионально, с высоким контролем качества и без рисков, потому что мы получаем устойчивые деловые связи со странами-импортерами сырья и покрываем все финансовые риски за пределами Европы. Наряду с этим у нас есть хорошие логистические возможности и обширные знания рынка.",
+        "Alabena - це компанія, яка імпортує в Європу олію, жирні кислоти, гліцерин. Ми робимо це професійно, з високим контролем якості та без ризиків, оскільки отримуємо стійкі ділові комунікації із країнами-імпортерами сировини та покриваємо всі фінансові ризики за межами Європи. Поряд з цим, ми маємо хороші логістичні можливості та широкі знання ринку.",
+        "Alabena jest firmą, która importuje olej, kwasy tłuszczowe, glicerynę z WNP do Europy. Robimy to profesjonalnie, z wysoką kontrolą jakości i bez ryzyka, ponieważ zapewniamy zrównoważoną komunikację biznesową z krajami importującymi surowce i pokrywamy wszystkie ryzyka finansowe poza Europą. Oprócz tego mamy dobre możliwości logistyczne i szeroką wiedzę na temat rynku."
+      ],
+      "second": [
+        "We are interested in consumers of fatty acids and oil for technical and food purposes. For the pharmaceutical and animal feed industry we can offer fatty acids produced without the use of sulfuric acid.",
+        "Мы заинтересованы в потребителях жирных кислот и масла для технических и пищевых целей. Для фармацевтической и кормовой промышленности мы можем предложить жирные кислоты, произведенные без использования серной кислоты.",
+        "Ми зацікавлені у споживачах жирних кислот та олії для технічних та харчових цілей. Для фармацевтичної та тваринницької промисловості ми можемо запропонувати жирні кислоти, вироблені без використання сірчаної кислоти.",
+        "Jesteśmy zainteresowani konsumentami kwasów tłuszczowych i oleju do celów technicznych i spożywczych. Dla przemysłu farmaceutycznego i paszowego oferujemy kwasy tłuszczowe produkowane bez użycia kwasu siarkowego."
+      ]
+    },
+    "block": {
+      "first": {
+        "title": [
+          "Amazing business offers for you",
+          "Удивительные деловые предложения для вас",
+          "Дивовижні ділові пропозиції для вас",
+          "Niesamowite oferty biznesowe dla Ciebie"
+        ],
+        "text": {
+          "first": [
+            "We are ready to build a joint business with enterprises that purchase and consume products below.",
+            "Мы готовы строить совместный бизнес с предприятиями, которые закупают и потребляют нижеописанную продукцию.",
+            "Ми готові побудувати спільний бізнес з підприємствами, які купують та споживають нижчеописану продукцію.",
+            "Jesteśmy gotowi zbudować wspólny biznes z przedsiębiorstwami, które kupują i konsumują produkty opisane poniżej."
+          ],
+          "second": [
+            "You always pay money to European company inside European Union.",
+            "Вы всегда платите деньги европейской компании внутри Европейского Союза.",
+            "Ви завжди платите гроші європейській компанії всередині Європейського Союзу.",
+            "Zawsze płacisz pieniądze europejskiej firmie w Unii Europejskiej."
+          ]
+        }
+      },
+      "second": {
+        "title": [
+          "We can do more together",
+          "Мы можем сделать больше вместе",
+          "Ми можемо зробити більше разом!",
+          "Razem możemy więcej!"
+        ],
+        "text": {
+          "first": [
+            "Alabena considers any offers for cooperation using the financial and intellectual resources of our company, our connections and opportunities, which give the advantage to receive additional profit and bonuses.",
+            "Alabena рассматривает любые предложения о сотрудничестве, используя финансовые и интеллектуальные ресурсы нашей компании, наши связи и возможности, которые дают преимущество в получении дополнительной прибыли и бонусов.",
+            "Alabena розглядає будь-які пропозиції щодо співпраці, використовуючи фінансові та інтелектуальні ресурси нашої компанії, наші зв’язки та можливості, які дають перевагу для отримання додаткового прибутку та бонусів.",
+            "Alabena rozważa wszelkie oferty współpracy przy użyciu zasobów finansowych i intelektualnych naszej firmy, naszych powiązań i możliwości, które dają przewagę w postaci dodatkowego zysku i bonusów."
+          ],
+          "second": [
+            "See our products and contacts below and stay in touch!",
+            "Смотрите наши продукты и контакты ниже и оставайтесь на связи!",
+            "Перегляньте наші продукти та контакти нижче та будьте на зв'язку!",
+            "Zobacz nasze produkty i kontakty poniżej i bądź w kontakcie!"
+          ]
+        }
+      }
+    }
+  },
+  "cards": {
+    "title": [
+      "What do we produce?",
+      "Что мы производим?",
+      "Що ми виробляємо?",
+      "Co produkujemy?"
+    ],
+    "animal": {
+      "title": [
+        "Animal Fat",
+        "Животные Жиры",
+        "Тваринні Жири",
+        "Tłuszcze Zwierzęce"
+      ],
+      "text": [
+        "Our company buys animal fats of different quality, soapstock of animal fats. We also provide services for cleaning and processing of animal fats per customer requirements",
+        "Наша компания закупает животные жиры разного качества, соапсток животных жиров. Мы также предоставляем услуги по очистке и переработке животных жиров в соответствии с требованиями заказчика.",
+        "Наша компанія закуповує тваринні жири різної якості, соапсток тваринних жирів. Ми також надаємо послуги з очищення та переробки тваринних жирів відповідно до вимог замовника",
+        "Nasza firma kupuje tłuszcze zwierzęce różnej jakości, soapstok tłuszczów zwierzęcych. Świadczymy również usługi czyszczenia i przetwarzania tłuszczów zwierzęcych zgodnie z wymaganiami klienta"
+      ]
+    },
+    "acids": {
+      "title": [
+        "Fatty Acids",
+        "Жирные Кислоты",
+        "Жирні Кислоти",
+        "Kwasy Tłuszczowe"
+      ],
+      "text": [
+        "We are the leaders in the production of high quality fatty acids. The uniqueness of our technology is that we receive the product with low-temperature processing, which allows us to provide high consumer properties of it. We provide services for the processing of oils and fats for fatty acids.",
+        "Мы являемся лидерами в производстве высококачественных жирных кислот. Уникальность нашей технологии в том, что мы получаем продукт с низкотемпературной обработкой, что позволяет нам обеспечивать его высокие потребительские свойства. Предоставляем услуги по переработке масел и жиров на жирные кислоты.",
+        "Ми є лідерами у виробництві високоякісних жирних кислот. Унікальність нашої технології полягає в тому, що ми отримуємо продукт при низькотемпературній обробці, що дозволяє нам забезпечити високі споживчі властивості його. Ми надаємо послуги з переробки олій та жирів на жирні кислоти.",
+        "Jesteśmy liderem w produkcji wysokiej jakości kwasów tłuszczowych. Wyjątkowość naszej technologii polega na tym, że otrzymujemy produkt przetwarzany w niskiej temperaturze, co pozwala nam zapewnić jego wysokie właściwości konsumenckie. Świadczymy usługi przetwarzania olejów i tłuszczów na kwasy tłuszczowe."
+      ]
+    },
+    "biodiesel": {
+      "title": [
+        "Biodiesel",
+        "Биодизель",
+        "Біодизель",
+        "Biodiesel"
+      ],
+      "text": [
+        "The company offers an innovative way to produce biodiesel from animal fats and vegetable oils. The advantages of this: simplicity of the processing, absence of toxic components, low process temperature lack of sophisticated equipment and expensive systems of filtration, low quality requirements for incoming raw materials",
+        "Компания предлагает инновационный способ производства биодизеля из животных жиров и растительных масел. Преимущества этого: простота обработки, отсутствие токсичных компонентов, низкая температура процесса, отсутствие сложного оборудования и дорогих систем фильтрации, низкие требования к качеству поступающего сырья.",
+        "Компанія пропонує інноваційний спосіб отримання біодизеля з тваринних жирів та рослинних олій. Переваги цього: простота переробки, відсутність токсичних компонентів, низька температура процесу, відсутність складного обладнання та дорогих систем фільтрації, низькі вимоги до якості сировини, що надходить.",
+        "Firma oferuje innowacyjny sposób produkcji biodiesla z tłuszczów zwierzęcych i olejów roślinnych. Zalety tego: prostota przetwarzania, brak toksycznych składników, niska temperatura procesu brak wyrafinowanego sprzętu i drogich systemów filtracji, niskie wymagania jakościowe dla przychodzących surowców"
+      ]
+    },
+    "byproducts": {
+      "title": [
+        "By-products of oil",
+        "Побочные продукты производства масла",
+        "Побічні продукти виробництва олеї",
+        "Produkty uboczne produkcji oleju"
+      ],
+      "text": [
+        "Our company purchases by-products of oil production (hydro processed oil sludge, soap stock, etc). We provide services for cleaning terminals and containers. We have work experience, own vehicles, a device for cleaning the tanks.",
+        "Наша компания закупает побочные продукты нефтедобычи (гидрофуз, соапсток, итд). Предоставляем услуги по уборке терминалов и контейнеров. У нас есть опыт работы, собственные автомобили, устройство для очистки резервуаров.",
+        "Наша компанія закуповує побічні продукти видобутку олії (гідрофуз, соапсток тощо). Ми надаємо послуги з очищення терміналів та контейнерів. У нас є досвід роботи, власні транспортні засоби, пристрій для очищення цистерн.",
+        "Nasza firma kupuje produkty uboczne produkcji oleju (hydrofuz, soapstok itp.). Świadczymy usługi czyszczenia terminali i kontenerów. Mamy doświadczenie zawodowe, własne pojazdy, urządzenie do czyszczenia zbiorników."
+      ]
+    },
+    "fish": {
+      "title": [
+        "Fish Fat",
+        "Рыбий Жир",
+        "Риб'ячий Жир",
+        "Olej Rybny"
+      ],
+      "text": [
+        "Processing fish fat up to the quality requirements of the customer is one of our main advantages.",
+        "Переработка рыбьего жира в соответствии с требованиями заказчика к качеству является одним из наших основных преимуществ.",
+        "Переробка рибного жиру до вимог до якості замовника - одне з наших головних переваг.",
+        "Przetwarzanie tłuszczu rybnego zgodnie z wymaganiami jakościowymi klienta jest jedną z naszych głównych zalet."
+      ]
+    },
+    "vegetable": {
+      "title": [
+        "Vegetable Oil",
+        "Растительное Масло",
+        "Рослинна олія",
+        "Olej roślinny"
+      ],
+      "text": [
+        "We buy substandard vegetable oils with increased phospholipid indices, impurities of acid number and peroxide number, fat and oil mixtures with substandard indicators.",
+        "Мы покупаем некачественные растительные масла с повышенными фосфолипидными показателями, примеси кислотного числа и пероксидного числа, жировые и масляные смеси с некондиционными показателями.",
+        "Ми купуємо нестандартні рослинні олії з підвищеними показниками фосфоліпідів, домішками кислотного числа та пероксидного числа, жировими та масляними сумішами з нестандартними показниками.",
+        "Kupujemy oleje roślinne niespełniające norm o podwyższonym indeksie fosfolipidowym, zanieczyszczenia o liczbie kwasowej i liczbie nadtlenkowej, mieszanki tłuszczów i olejów o wskaźnikach niespełniających norm."
+      ]
+    }
+  },
+  "benefits": {
+    "title": [
+      "Benefits",
+      "Преимущества",
+      "Переваги",
+      "Przewagi"
+    ],
+    "first": {
+      "header": [
+        "Reliability",
+        "Надежность",
+        "Надійність",
+        "Ufność"
+      ],
+      "text": [
+        "Trust is our main benefit",
+        "Доверие - наше лучшее преимущество",
+        "Довіра - наша краща перевага",
+        "Ufność - nasza najlepsza przewaga"
+      ]
+    },
+    "second": {
+      "header": [
+        "Quality",
+        "Качество",
+        "Якість",
+        "Jakość"
+      ],
+      "text": [
+        "High quality oil production",
+        "Высокое качество производимого масла",
+        "Висока якість виробленого масла",
+        "Wysoka jakość produkowanego oleju"
+      ]
+    },
+    "third": {
+      "header": [
+        "Quantity",
+        "Количество",
+        "Кількість",
+        "Ilość"
+      ],
+      "text": [
+        "Large production capacity",
+        "Большие объемы производства",
+        "Великі обсяги виробництва",
+        "Duża objętość produkcji"
+      ]
+    }
+  },
+  "footer": {
+    "email": [
+      "Email",
+      "Имейл",
+      "Імейл",
+      "EMail"
+    ],
+    "vat": [
+      "VAT number",
+      "VAT номер",
+      "VAT номер",
+      "VAT numer"
+    ],
+    "code": [
+      "Code",
+      "Код",
+      "Код",
+      "Kod"
+    ],
+    "phone": [
+      "Phone",
+      "Телефонный номер",
+      "Телефонний номер",
+      "Numer telefoniczny"
+    ],
+    "factory": [
+      "Factory",
+      "Фабрика",
+      "Фабрика",
+      "Fabryka"
+    ],
+    "office": [
+      "Office",
+      "Офис",
+      "Офіс",
+      "Biuro"
+    ],
+    "allrights": [
+      "Copyright @ 2019 UAB Alabena. All rights reserved",
+      "Авторские права @ 2019 UAB Alabena. Все права защищены",
+      "Авторські права @ 2019 UAB Alabena. Всі права захищені",
+      "Prawa Autorskie @ 2019 UAB Alabena. Wszystkie prawa zastrzeżone"
+    ]
+  },
+  "certificates": {
+    "title": [
+      "Certificates",
+      "Сертификаты",
+      "Сертифiкати",
+      "Certyfikaty"
+    ]
+  }
+}

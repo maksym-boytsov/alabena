@@ -8,12 +8,15 @@
 
 @import "./components/mainimg";
 @import "./components/logo";
-@import "./components/about-block";
-@import "./components/btn";
-@import "./components/icon";
+@import "./components/cards";
+@import "./components/graphics";
 
 @import "./layout/content";
 @import "./layout/footer";
 @import "./layout/navbar";
 
+@import "./pages/about";
+@import "./pages/benefits";
 @import "./pages/products";
+@import "./pages/language";
+@import "./pages/certificates";

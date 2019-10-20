@@ -1,3 +1,34 @@
-#footer {
+.footer {
+  position: relative;
+  background-image: linear-gradient(rgba($color-choco-dark, 0.8), rgba($color-choco-dark, 0.8)), url("../images/bg-main.jpg");
+  padding-top: 7.5rem;
+  padding-bottom: 1rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  &-text {
+    text-align: left;
+    color: $color-white;
+  }
+  &-text h5 {
+    color: $color-white;
+    text-transform: uppercase;
+  }
+  &-text p {
+    color: $color-grey-light;
+    text-transform: none;
+    font-size: 1rem;
+  }
+  &-copyright {
+    color: $color-white;
+  }
+  &-hr {
+    border-color: $color-white;
+  }
+}
 
+@media only screen and(min-width: 768px) {
+  .footer {
+    padding-top: 4.5rem;
+  }
 }
